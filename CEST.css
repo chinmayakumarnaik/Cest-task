@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box1{
+
+  background-color: rgb(140, 87, 239);
+ height:95vh;
+ width: 70vw;
+ display: flex;
+ justify-content: center;
+align-items: center;
+
+}
+.box2{
+background-color: white;
+height: 77vh;
+width: 62vw;
+border-radius: 2.5rem;
+}
+.nav{
+  display: flex;
+ align-items:center;
+
+  padding: 2rem;
+ 
+}
+.logo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(108, 39, 173);
+ font-weight: bold;
+ font-size: large;
+ margin: 1rem;
+}
+.info ul{
+display: flex;
+list-style: none;
+margin-left: 25rem;
+}
+.info ul li a{
+text-decoration: none;
+margin-right: 6rem;
+font-family: sans-serif;
+font-size:xx-small;
+color: rgb(68, 3, 128);
+font-weight: 300;
+
+}
+.ui{
+  font-family:sans-serif;
+  font-size: 4rem;
+  font-weight: 600;
+  color: rgb(99, 18, 176);
+  margin-left: 2.8rem;
+  margin-top: 3.5rem;
+}
+.design{
+  font-family:sans-serif;
+  font-size: 4rem;
+  font-weight: 100;
+  color: rgb(99, 18, 176);
+  margin-left: 2.8rem;
+  margin-top: -2.1%;
+}
+.lorem{
+  border: none;
+  height: 3rem;
+  width: 15rem;
+  font-family:sans-serif;
+  color: rgb(99, 18, 176);
+  font-size: xx-small;
+  font-weight: lighter;
+  margin-left: 3.1rem;
+  margin-top: 0.5rem;
+}
+.fb{
+  margin-top: 5rem;
+  margin-left: 2.9rem;
+}
+.insta{
+  margin-top: 5rem;
+  margin-left: 2rem;
+}
+.twit{
+  margin-top: 5rem;
+  margin-left: 2rem;
+}
+.body{
+  display: flex;
+ 
+ 
+}
+.right{
+  margin-left: 9rem;
+  margin-top: 2.5rem;
+}
+.bottom{
+  margin-top:-15%;
+}
+.explore{
+  background-color:rgb(230, 18, 18);
+  color: white;
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 3.1rem;
+  padding-left: 1rem ;
+  padding-top: 0.3rem;
+  margin-top: 0.5rem;
+  height:1.8rem ;
+  width: 6.5rem;
+}
+
